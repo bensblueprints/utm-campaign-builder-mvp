@@ -1,0 +1,17 @@
+services:
+  utmcraft:
+    build: .
+    container_name: utmcraft
+    restart: unless-stopped
+    ports:
+      - "5349:5349"
+    environment:
+      - PORT=5349
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/utmcraft.db
+      - BASE_URL=${BASE_URL:-}
+    volumes:
+      - utmcraft-data:/app/data
+
+volumes:
+  utmcraft-data:
