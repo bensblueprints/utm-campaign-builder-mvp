@@ -12,7 +12,7 @@ UTM.io charges **$29/month** to fill out a form with dropdowns. UTMcraft is **$1
 
 Don't want to touch a terminal? Grab the packaged Windows installer (and support development):
 
-**→ [Get UTMcraft on Whop](https://whop.com/onetime-suite)** — pay once, own it forever.
+**→ [Get UTMcraft on Whop](https://whop.com/benjisaiempire/utmcraft)** — pay once, own it forever.
 
 ## Features
 
