@@ -1,5 +1,9 @@
 # 🎯 UTMcraft
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **The UTM builder you buy once and own forever.** Build consistently-tagged campaign links with autocomplete and a naming-convention enforcer, generate 10 ad-set variants from CSV in one shot, and track real clicks through your own redirect short links — with dashboards by source, medium, device, and day.
